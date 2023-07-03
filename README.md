@@ -1,2 +1,2 @@
 # gameserver
-A game server based on Leaf framework
+a game server based on leaf framework with go 
